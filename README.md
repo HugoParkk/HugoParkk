@@ -2,7 +2,7 @@
 
 # 기술 스택
 ---
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 <!--
 **pokoed/pokoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
