@@ -38,7 +38,7 @@
 
 <!-- 앱 스택 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/reactnative-339933?style=for-the-badge&logo=reactnative&logoColor=white">
+  <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
