@@ -1,6 +1,6 @@
 ### 안녕하세요 저는 백엔드 개발자 지망생 박종연입니다 👋
 
-# 스택 📚
+<div align="center"><h1>스택 📚</h1></div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
