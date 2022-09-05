@@ -10,7 +10,7 @@
 ## 🔗 저의 개발 블로그는...
 [Tistory 박종연의 성장하는 개발 블로그](https://parkstate.tistory.com/)
 
-[~~Velog pokoed.log(Tistory로 이전)~~](https://velog.io/@pokoed/)
+<!--[~~Velog pokoed.log(Tistory로 이전)~~](https://velog.io/@pokoed/)-->
 
 
 <!--
