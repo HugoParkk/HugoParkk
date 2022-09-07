@@ -2,10 +2,10 @@
 저는 서울디지텍고등학교에 재학중인 청소년 개발자입니다.
 
 
-## 📚 제가 현재 공부중인 것은...
+<!--## 📚 제가 현재 공부중인 것은...
 1. Java
 2. Spring(Spring Boot)
-3. WEB/WAS 차이
+3. WEB/WAS 차이-->
 
 ## 🔗 저의 개발 블로그는...
 [Tistory 박종연의 성장하는 개발 블로그](https://parkstate.tistory.com/)
