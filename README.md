@@ -10,6 +10,9 @@
 ## 🔗 저의 개발 블로그는...
 [Tistory 박종연의 성장하는 개발 블로그](https://parkstate.tistory.com/)
 
+## 🚀 제 로켓펀치 프로필입니다!
+[RocketPunch](https://www.rocketpunch.com/@pokoed)
+
 <!--[~~Velog pokoed.log(Tistory로 이전)~~](https://velog.io/@pokoed/)-->
 
 
