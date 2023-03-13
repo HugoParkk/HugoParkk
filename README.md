@@ -13,6 +13,9 @@
 ## 🚀 제 로켓펀치 프로필입니다!
 [RocketPunch](https://www.rocketpunch.com/@pokoed)
 
+## 📜 이력서 PDF입니다!
+[이력서 PDF](https://drive.google.com/file/d/12jRhPKzYixTQm53PFljR43WCBMNmOgzw/view?usp=share_link)
+
 <!--[~~Velog pokoed.log(Tistory로 이전)~~](https://velog.io/@pokoed/)-->
 
 
