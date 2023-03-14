@@ -6,6 +6,9 @@
 1. Java
 2. Spring(Spring Boot)
 3. WEB/WAS 차이-->
+## 🔍 경력
+- SeoulDigitechHighschool [2020 ~ 2023]
+- Tunib [2022.09 ~ 2023.03]
 
 ## 🔗 저의 개발 블로그는...
 [Tistory 박종연의 성장하는 개발 블로그](https://parkstate.tistory.com/)
