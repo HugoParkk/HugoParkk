@@ -9,6 +9,7 @@
 ## 🔍 경력
 - SeoulDigitechHighschool [2020 ~ 2023]
 - Tunib [2022.09 ~ 2023.03]
+- ImtSoft [2023.05 ~ now]
 
 ## 🔗 저의 개발 블로그는...
 [Tistory 박종연의 성장하는 개발 블로그](https://parkstate.tistory.com/)
@@ -16,8 +17,8 @@
 ## 🚀 제 로켓펀치 프로필입니다!
 [RocketPunch](https://www.rocketpunch.com/@pokoed)
 
-## 📜 이력서 PDF입니다!
-[이력서 PDF](https://drive.google.com/file/d/12jRhPKzYixTQm53PFljR43WCBMNmOgzw/view?usp=share_link)
+<!-- ## 📜 이력서 PDF입니다!
+[이력서 PDF](https://drive.google.com/file/d/12jRhPKzYixTQm53PFljR43WCBMNmOgzw/view?usp=share_link) -->
 
 <!--[~~Velog pokoed.log(Tistory로 이전)~~](https://velog.io/@pokoed/)-->
 
