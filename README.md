@@ -1,39 +1,25 @@
-## 😇 안녕하세요 저는 백엔드 개발자 박종연입니다!
-저는 서울디지텍고등학교를 졸업한 신입 개발자 박종연입니다.
+### Hello there! I'm Jongyeon Park
+- I'm working as Backend Engineer at ImtSoft.
+
+<!-- ### My resume -->
+<!-- <a href="" target="_blank">**Resume**</a> -->
+
+### My footsteps
+- <a href="https://sdh.sen.hs.kr/index.do" target="_blank">Seoul Digitech Highschool</a> [2020 ~ 2023]
+- <a href="https://tunib.ai/" target="_blank">TUNiB</a> [2022.09 ~ 2023.03]
+- <a href="http://www.imtsoft.co.kr/" target="_blank">ImtSoft</a> [2023.05 ~ now]
+
+### My tech blog
+<a href="https://parkstate.tistory.com/" target="_blank">Tistory 박종연의 성장하는 개발 블로그</a>
+
+### Contact me
+- Email: <a href="mailto:jongyeonpark.dev@gmail.com" target="_blank">jongyeonpark.dev@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/%EC%A2%85%EC%97%B0-%EB%B0%95-036368243" target="_blank">LinkedIn</a>
+- RocketPunch: <a href="https://www.rocketpunch.com/@pokoed" target="_blank">RocketPunch</a>
 
 
-<!--## 📚 제가 현재 공부중인 것은...
-1. Java
-2. Spring(Spring Boot)
-3. WEB/WAS 차이-->
-## 🔍 경력
-- SeoulDigitechHighschool [2020 ~ 2023]
-- Tunib [2022.09 ~ 2023.03]
-- ImtSoft [2023.05 ~ now]
-
-## 🔗 저의 개발 블로그는...
-[Tistory 박종연의 성장하는 개발 블로그](https://parkstate.tistory.com/)
-
-## 🚀 제 로켓펀치 프로필입니다!
-[RocketPunch](https://www.rocketpunch.com/@pokoed)
 
 <!-- ## 📜 이력서 PDF입니다!
 [이력서 PDF](https://drive.google.com/file/d/12jRhPKzYixTQm53PFljR43WCBMNmOgzw/view?usp=share_link) -->
 
 <!--[~~Velog pokoed.log(Tistory로 이전)~~](https://velog.io/@pokoed/)-->
-
-
-<!--
-**pokoed/pokoed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
