@@ -10,7 +10,7 @@
 - <a href="http://www.imtsoft.co.kr/" target="_blank">ImtSoft</a> [2023.05 ~ now]
 
 ### My tech blog
-<a href="https://parkstate.tistory.com/" target="_blank">Tistory 박종연의 성장하는 개발 블로그</a>
+- <a href="https://parkstate.tistory.com/" target="_blank">Tistory 박종연의 성장하는 개발 블로그</a>
 
 ### Contact me
 - Email: <a href="mailto:jongyeonpark.dev@gmail.com" target="_blank">jongyeonpark.dev@gmail.com</a>
