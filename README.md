@@ -15,7 +15,7 @@
 ### Contact me
 - Email: <a href="mailto:jongyeonpark.dev@gmail.com" target="_blank">jongyeonpark.dev@gmail.com</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/%EC%A2%85%EC%97%B0-%EB%B0%95-036368243" target="_blank">LinkedIn</a>
-- RocketPunch: <a href="https://www.rocketpunch.com/@pokoed" target="_blank">RocketPunch</a>
+<!-- - RocketPunch: <a href="https://www.rocketpunch.com/@pokoed" target="_blank">RocketPunch</a> -->
 
 
 
